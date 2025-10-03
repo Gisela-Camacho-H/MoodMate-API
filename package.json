@@ -1,0 +1,29 @@
+{
+  "name": "moodmate-api",
+  "version": "1.0.0",
+  "description": "This is the RESTful API for the MoodMate mobile application, designed to help users track their emotions, receive personalized support (quotes and scriptures), and manage their profiles securely using Firebase Authentication.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gisela-Camacho-H/MoodMate-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Gisela-Camacho-H/MoodMate-API/issues"
+  },
+  "homepage": "https://github.com/Gisela-Camacho-H/MoodMate-API#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "firebase-admin": "^13.5.0",
+    "mongoose": "^8.19.0",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1"
+  }
+}
