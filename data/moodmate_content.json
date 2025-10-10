@@ -1,0 +1,244 @@
+{
+    "support_content": {
+        "Calm": {
+            "scriptures": [
+                {"reference": "John 14:27", "text": "Peace I leave with you, my peace I give unto you … Let not your heart be troubled, neither let it be afraid."},
+                {"reference": "D&C 19:23", "text": "Learn of me, and listen to my words; walk in the meekness of my Spirit, and you shall have peace in me."},
+                {"reference": "Psalm 37:11", "text": "But the meek shall inherit the earth; and shall delight themselves in the abundance of peace."}
+            ],
+            "quotes": [
+                {"author": "Thomas S. Monson", "text": "Peace is not found in the absence of conflict but in the presence of Christ."},
+                {"author": "Russell M. Nelson", "text": "As we seek Him, as we learn of Him, as we come to Him, we find rest from the cares of this world."},
+                {"author": "Ezra Taft Benson", "text": "True peace comes only by faith and obedience."}
+            ]
+        },
+        "Hopeful": {
+            "scriptures": [
+                {"reference": "Ether 12:4", "text": "Wherefore, whoso believeth in God might with surety hope for a better world."},
+                {"reference": "Psalm 31:24", "text": "Be of good courage, and he shall strengthen your heart, all ye that hope in the Lord."},
+                {"reference": "D&C 100:12", "text": "Therefore, continue your journey and let your hearts rejoice; for behold, and lo, I am with you even unto the end."}
+            ],
+            "quotes": [
+                {"author": "Dieter F. Uchtdorf", "text": "Hope is a gift of the Spirit. It is hope that encourages and inspires us to press forward."},
+                {"author": "Jeffrey R. Holland", "text": "With God, there is no point of no return."},
+                {"author": "James E. Faust", "text": "Hope is trust in God's promises, faith that if we act now, the desired blessings will be fulfilled in the future."}
+            ]
+        },
+        "Content": {
+            "scriptures": [
+                {"reference": "2 Nephi 5:27", "text": "And it came to pass that we lived after the manner of happiness."},
+                {"reference": "1 Timothy 6:6", "text": "Godliness with contentment is great gain."},
+                {"reference": "Alma 29:3", "text": "Be content with the things which ye have."}
+            ],
+            "quotes": [
+                {"author": "Dieter F. Uchtdorf", "text": "Gratitude is the catalyst to all Christlike attributes. A thankful heart is the parent of all virtues."},
+                {"author": "Harold B. Lee", "text": "Happiness does not depend on what happens outside of you but on what happens inside of you."},
+                {"author": "Gordon B. Hinckley", "text": "The true source of happiness is living the gospel of Jesus Christ."}
+            ]
+        },
+        "Joyful": {
+            "scriptures": [
+                {"reference": "2 Nephi 2:25", "text": "Men are, that they might have joy."},
+                {"reference": "Psalm 32:11", "text": "Be glad in the Lord, and rejoice, ye righteous: and shout for joy, all ye that are upright in heart."},
+                {"reference": "Acts 2:28", "text": "Thou hast made known to me the ways of life; thou shalt make me full of joy with thy countenance."}
+            ],
+            "quotes": [
+                {"author": "Russell M. Nelson", "text": "The joy we feel has little to do with the circumstances of our lives and everything to do with the focus of our lives."},
+                {"author": "Jeffrey R. Holland", "text": "In the gospel of Jesus Christ you have help from both sides of the veil, and you must never forget that."},
+                {"author": "Henry B. Eyring", "text": "Joy is the gift of God, and when we focus on Him, our joy increases."}
+            ]
+        },
+        "Inspired": {
+            "scriptures": [
+                {"reference": "D&C 88:118", "text": "Seek ye out of the best books words of wisdom; seek learning, even by study and also by faith."},
+                {"reference": "Romans 8:16", "text": "The Spirit itself beareth witness with our spirit, that we are the children of God."},
+                {"reference": "D&C 8:2", "text": "I will tell you in your mind and in your heart, by the Holy Ghost, which shall come upon you."}
+            ],
+            "quotes": [
+                {"author": "Camilla E. Kimball", "text": "Never suppress a generous thought."},
+                {"author": "Thomas S. Monson", "text": "Inspiration comes when we are on the move."},
+                {"author": "Henry B. Eyring", "text": "If we will listen, the Lord will teach us what we need to know for our own journey."}
+            ]
+        },
+        "Grateful": {
+            "scriptures": [
+                {"reference": "1 Thessalonians 5:18", "text": "In every thing give thanks: for this is the will of God in Christ Jesus concerning you."},
+                {"reference": "Alma 34:38", "text": "Live in thanksgiving daily, for the many mercies and blessings which he doth bestow upon you."},
+                {"reference": "2 Corinthians 9:15", "text": "Thanks be unto God for his unspeakable gift."}
+            ],
+            "quotes": [
+                {"author": "Dieter F. Uchtdorf", "text": "We can choose to be grateful, no matter what."},
+                {"author": "Melody Beattie ", "text": "Gratitude turns what we have into enough."},
+                {"author": "M. Russell Ballard", "text": "Gratitude is an expression of faith and a recognition that all good comes from God."}
+            ]
+        },
+        "Empowered": {
+            "scriptures": [
+                {"reference": "Philippians 4:13", "text": "I can do all things through Christ which strengtheneth me."},
+                {"reference": "2 Timothy 1:7", "text": "God hath not given us the spirit of fear; but of power, and of love, and of a sound mind."},
+                {"reference": "Joshua 1:9", "text": "Be strong and of a good courage; be not afraid, neither be thou dismayed: for the Lord thy God is with thee."}
+            ],
+            "quotes": [
+                {"author": "Thomas S. Monson", "text": "You are stronger than you think. You can do more than you imagine."},
+                {"author": "Russell M. Nelson", "text": "With faith in the Lord, you can do difficult things."},
+                {"author": "Dieter F. Uchtdorf", "text": "Heavenly Father will give you the strength and capacity you need in every challenge."}
+            ]
+        },
+        "Curious": {
+            "scriptures": [
+                {"reference": "Matthew 7:7", "text": "Seek, and ye shall find; knock, and it shall be opened unto you."},
+                {"reference": "James 1:5", "text": "If any of you lack wisdom, let him ask of God, that giveth to all men liberally."},
+                {"reference": "1 Nephi 10:19", "text": "For he that diligently seeketh shall find; and the mysteries of God shall be unfolded unto them."}
+            ],
+            "quotes": [
+                {"author": "Gordon B. Hinckley", "text": "Inspiration comes more easily when we are moving forward with faith."},
+                {"author": "Russell M. Nelson", "text": "Ask questions. Be curious. But let your curiosity lead you to the scriptures, to prayer, and to the Spirit."},
+                {"author": "Boyd K. Packer", "text": "The Lord will teach you line upon line, precept upon precept, as you seek knowledge."}
+            ]
+        },
+        "Anxious": {
+            "scriptures": [
+                {"reference": "Psalm 46:10", "text": "Be still, and know that I am God."},
+                {"reference": "D&C 6:36", "text": "Look unto me in every thought; doubt not, fear not."},
+                {"reference": "John 14:27", "text": "Peace I leave with you, my peace I give unto you… Let not your heart be troubled, neither let it be afraid."}
+            ],
+            "quotes": [
+                {"author": "Dieter F. Uchtdorf", "text": "Do not fear. God's love is stronger than your fears."},
+                {"author": "M. Russell Ballard", "text": "Hope is never lost when faith is in the Lord Jesus Christ."},
+                {"author": "Jeffrey R. Holland", "text": "He will calm the troubled waters of your life."}
+            ]
+        },
+        "Sad": {
+            "scriptures": [
+                {"reference": "Matthew 5:4", "text": "Blessed are they that mourn: for they shall be comforted."},
+                {"reference": "Isaiah 25:8", "text": "He will swallow up death in victory; and the Lord God will wipe away tears from off all faces."},
+                {"reference": "Psalm 34:18", "text": "The Lord is nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit."}
+            ],
+            "quotes": [
+                {"author": "Richard G. Scott", "text": "It is in the depth of sorrow that the Savior's healing power is most felt."},
+                {"author": "Joseph B. Wirthlin", "text": "Every tear today will eventually be returned a hundredfold with tears of rejoicing."},
+                {"author": "Moroni 7:3 ", "text": "Come unto Christ and you will find rest and peace for your soul."}
+            ]
+        },
+        "Overwhelmed": {
+            "scriptures": [
+                {"reference": "Matthew 11:28", "text": "Come unto me, all ye that labour and are heavy laden, and I will give you rest."},
+                {"reference": "Psalm 55:22", "text": "Cast thy burden upon the Lord, and he shall sustain thee."},
+                {"reference": "2 Corinthians 12:9", "text": "My grace is sufficient for thee: for my strength is made perfect in weakness."}
+            ],
+            "quotes": [
+                {"author": "Dieter F. Uchtdorf", "text": "You don't have to do everything. You just have to do what matters most."},
+                {"author": "Spencer W. Kimball", "text": "God does notice us, and He watches over us. But it is usually through another person that He meets our needs."},
+                {"author": "Henry B. Eyring", "text": "The Lord will help you carry your load when it feels too heavy to bear."}
+            ]
+        },
+        "Frustrated": {
+            "scriptures": [
+                {"reference": "Galatians 6:9", "text": "Be not weary in well doing: for in due season we shall reap, if we faint not."},
+                {"reference": "Proverbs 3:5", "text": "Trust in the Lord with all thine heart; and lean not unto thine own understanding."},
+                {"reference": "Ether 12:27", "text": "And if men come unto me I will show unto them their weakness."}
+            ],
+            "quotes": [
+                {"author": "Dieter F. Uchtdorf", "text": "Patience is not simply enduring; it is the ability to accept delays and difficulties without frustration."},
+                {"author": "Henry B. Eyring", "text": "Sometimes the Lord allows us to struggle to help us grow stronger."},
+                {"author": "Thomas S. Monson", "text": "When we are frustrated, we can turn to the Lord and He will help us see a better perspective."}
+            ]
+        },
+        "Stressed": {
+            "scriptures": [
+                {"reference": "John 14:27", "text": "Peace I leave with you, my peace I give unto you."},
+                {"reference": "1 Peter 5:7", "text": "Casting all your care upon him; for he careth for you."},
+                {"reference": "Philippians 4:6", "text": "Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God."}
+            ],
+            "quotes": [
+                {"author": "Dieter F. Uchtdorf", "text": "When we are under pressure, God's Spirit can calm our hearts if we seek Him.” ."},
+                {"author": "Jeffrey R. Holland", "text": "The Lord knows your burdens and will strengthen you when you feel overwhelmed."},
+                {"author": "Richard G. Scott", "text": "Stress is a signal to seek the Lord's guidance and lean on His power."}
+            ]
+        },
+        "Lonely": {
+            "scriptures": [
+                {"reference": "Hebrews 13:5", "text": "I will never leave thee, nor forsake thee."},
+                {"reference": "Psalm 145:18", "text": "The Lord is nigh unto all them that call upon him."},
+                {"reference": "Matthew 11:28", "text": "Come unto me, all ye that are weary and heavy laden, and I will give you rest."}
+            ],
+            "quotes": [
+                {"author": "Dieter F. Uchtdorf", "text": "Even when you feel alone, God is aware of your needs."},
+                {"author": "Henry B. Eyring", "text": "You are never truly alone; the Savior walks beside you."},
+                {"author": "Thomas S. Monson", "text": "Seek service and connection, and loneliness will fade."}
+            ]
+        },
+        "Confused": {
+            "scriptures": [
+                {"reference": "James 1:5", "text": "If any of you lack wisdom, let him ask of God, that giveth to all men liberally."},
+                {"reference": "Proverbs 3:5", "text": "Trust in the Lord with all thine heart; and lean not unto thine own understanding."},
+                {"reference": "Matthew 7:7", "text": "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you.” ."}
+            ],
+            "quotes": [
+                {"author": "Dieter F. Uchtdorf", "text": "Faith is trusting in the Lord even when the path isn't clear."},
+                {"author": "Jeffrey R. Holland", "text": "Confusion is an opportunity to learn to rely on the Spirit."},
+                {"author": "Henry B. Eyring", "text": "The Lord will guide you step by step when you are unsure."}
+            ]
+        },
+        "Grief": {
+            "scriptures": [
+                {"reference": "Matthew 5:4", "text": "Blessed are they that mourn: for they shall be comforted."},
+                {"reference": "Psalm 34:18", "text": "The Lord is nigh unto them that are of a broken heart."},
+                {"reference": "D&C 121:45", "text": "And the spirit shall be poured out upon you from on high; and ye shall be comforted."}
+            ],
+            "quotes": [
+                {"author": "Dieter F. Uchtdorf", "text": "The Savior knows your grief and can give you peace."},
+                {"author": "Jeffrey R. Holland", "text": "Time and faith in the Lord will heal even the deepest sorrow."},
+                {"author": "Thomas S. Monson", "text": "Your tears are precious, and the Lord will comfort you."}
+            ]
+        },
+        "Apathy": {
+            "scriptures": [
+                {"reference": "Ephesians 5:14", "text": "Awake, thou that sleepest, and arise from the dead, and Christ shall give thee light."},
+                {"reference": "D&C 64:33", "text": "Wherefore, be not weary in well doing."},
+                {"reference": "Revelation 2:7", "text": "He that hath an ear, let him hear what the Spirit saith unto the churches."}
+            ],
+            "quotes": [
+                {"author": "Dieter F. Uchtdorf", "text": "Even small steps of faith can awaken a dormant heart."},
+                {"author": "Henry B. Eyring", "text": "Acting in goodness, even when you feel numb, brings life to the soul."},
+                {"author": "Jeffrey R. Holland", "text": "Engage in service; it rekindles the spirit."}
+            ]
+        },
+        "Irritated": {
+            "scriptures": [
+                {"reference": "Proverbs 15:1", "text": "A soft answer turneth away wrath."},
+                {"reference": "Psalm 37:8", "text": "Cease from anger, and forsake wrath.” ."},
+                {"reference": "Ephesians 4:26", "text": "Be ye angry, and sin not: let not the sun go down upon your wrath."}
+            ],
+            "quotes": [
+                {"author": "Dieter F. Uchtdorf", "text": "Pause and seek the Lord when irritation arises."},
+                {"author": "Thomas S. Monson", "text": "Control your emotions and act with love, not frustration."},
+                {"author": "Henry B. Eyring", "text": "Peace comes from patience and understanding, not impulse."}
+            ]
+        },
+        "Vulnerable": {
+            "scriptures": [
+                {"reference": "Psalm 34:18", "text": "The Lord is nigh unto them that are of a broken heart."},
+                {"reference": "Isaiah 41:10", "text": "I will strengthen thee, yea, I will help thee."},
+                {"reference": "Isaiah 41:10", "text": "Fear thou not; for I am with thee."}
+            ],
+            "quotes": [
+                {"author": "Dieter F. Uchtdorf", "text": "Vulnerability is a doorway to God's strength."},
+                {"author": "Henry B. Eyring", "text": "When we share our hearts, we allow God to lift us."},
+                {"author": "Jeffrey R. Holland", "text": "Courage is not the absence of fear, but the willingness to trust God in weakness."}
+            ]
+        },
+        "Resilient": {
+            "scriptures": [
+                {"reference": "Philippians 4:13", "text": "I can do all things through Christ which strengtheneth me."},
+                {"reference": "Joshua 1:9", "text": "Be strong and of a good courage; be not afraid, neither be thou dismayed.” ."},
+                {"reference": "Isaiah 40:31", "text": "They that wait upon the Lord shall renew their strength."}
+            ],
+            "quotes": [
+                {"author": "Dieter F. Uchtdorf", "text": "Resilience comes from faith, not from avoiding challenges."},
+                {"author": "Henry B. Eyring", "text": "The Lord helps those who keep moving forward despite setbacks."},
+                {"author": "Jeffrey R. Holland", "text": "Strength grows as we persist and trust in God's timing."}
+            ]
+        }
+    }
+}
