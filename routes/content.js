@@ -29,12 +29,12 @@ const inspirationalQuotes = require('../data/inspirational_quotes.json');
  *         description: Server Error.
  */
 router.get('/all', async (req, res) => {
-  try {
-    const allContent = {
-      support_content: moodmateContent.support_content,
-      inspirational_quotes: inspirationalQuotes
-    };
-    res.json(allContent);
+    try {
+        const allContent = {
+            support_content: moodmateContent.support_content, 
+            inspirational_quotes: inspirationalQuotes 
+        };
+        res.json(allContent);
   } catch (error) {
     console.error(error.message);
     res.status(500).send('Server Error retrieving static content.');
