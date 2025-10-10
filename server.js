@@ -1,20 +1,24 @@
+// server.js
 const express = require('express');
 const connectDB = require('./config/db');
+const dotenv = require('dotenv');
 const swaggerUi = require('swagger-ui-express');
-const swaggerSpecd = require('./swagger');
+const swaggerSpecs = require('./swagger'); 
 
-require('dotenv').config();
-
+dotenv.config();
 connectDB();
+
 
 const app = express();
 
-const PORT = process.env.PORT || 5000;
-
 app.use(express.json());
 
-app.use('./api-docs', swaggerUi.serve, swaggerUi.setup(swaggerSpecd));
+app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerSpecs));
 
-app.get('/', (req, res) => res.send('MoodMate API is running!'));
+app.use('/api/content', require('./routes/content')); 
+app.use('/api/users', require('./routes/users')); 
+app.use('/api/moods', require('./routes/moods'));     
 
-app.listen(PORT, () => console.log(`Server running in http://Localhost:${PORT}`));
+const PORT = process.env.PORT || 3000; 
+
+app.listen(PORT, () => console.log(`Server running in http://localhost:${PORT}`));
