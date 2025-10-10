@@ -1,0 +1,52 @@
+[
+    {
+        "type": "Quote",
+        "author": "Albert Einstein",
+        "text": "The only source of knowledge is experience."
+    },
+    {
+        "type": "Scripture",
+        "reference": "Philippians 4:13",
+        "text": "I can do all this through him who gives me strength."
+    },
+    {
+        "type": "Quote",
+        "author": "Maya Angelou",
+        "text": "You will face many defeats in life, but never let yourself be defeated."
+    },
+    {
+        "type": "Quote",
+        "author": "Nelson Mandela",
+        "text": "The greatest glory in living lies not in never falling, but in rising every time we fall."
+    },
+    {
+        "type": "Scripture",
+        "reference": "Jeremiah 29:11",
+        "text": "For I know the plans I have for you, declares the LORD, plans for welfare and not for evil, to give you a future and a hope."
+    },
+    {
+        "type": "Quote",
+        "author": "Walt Disney",
+        "text": "All our dreams can come true, if we have the courage to pursue them."
+    },
+    {
+        "type": "Scripture",
+        "reference": "Psalm 118:24",
+        "text": "This is the day which the LORD hath made; we will rejoice and be glad in it."
+    },
+    {
+        "type": "Quote",
+        "author": "Ralph Waldo Emerson",
+        "text": "The only person you are destined to become is the person you decide to be."
+    },
+    {
+        "type": "Scripture",
+        "reference": "Isaiah 41:10",
+        "text": "fear not, for I am with you; be not dismayed, for I am your God; I will strengthen you, I will help you, I will uphold you with my righteous right hand."
+    },
+    {
+        "type": "Quote",
+        "author": "Mark Twain",
+        "text": "The secret of getting ahead is getting started."
+    }
+]
