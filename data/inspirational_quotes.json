@@ -1,52 +1,106 @@
 [
     {
-        "type": "Quote",
         "author": "Albert Einstein",
         "text": "The only source of knowledge is experience."
     },
     {
-        "type": "Scripture",
-        "reference": "Philippians 4:13",
-        "text": "I can do all this through him who gives me strength."
-    },
-    {
-        "type": "Quote",
         "author": "Maya Angelou",
         "text": "You will face many defeats in life, but never let yourself be defeated."
     },
     {
-        "type": "Quote",
         "author": "Nelson Mandela",
         "text": "The greatest glory in living lies not in never falling, but in rising every time we fall."
     },
     {
-        "type": "Scripture",
-        "reference": "Jeremiah 29:11",
-        "text": "For I know the plans I have for you, declares the LORD, plans for welfare and not for evil, to give you a future and a hope."
-    },
-    {
-        "type": "Quote",
         "author": "Walt Disney",
         "text": "All our dreams can come true, if we have the courage to pursue them."
     },
     {
-        "type": "Scripture",
-        "reference": "Psalm 118:24",
-        "text": "This is the day which the LORD hath made; we will rejoice and be glad in it."
-    },
-    {
-        "type": "Quote",
         "author": "Ralph Waldo Emerson",
         "text": "The only person you are destined to become is the person you decide to be."
     },
     {
-        "type": "Scripture",
-        "reference": "Isaiah 41:10",
-        "text": "fear not, for I am with you; be not dismayed, for I am your God; I will strengthen you, I will help you, I will uphold you with my righteous right hand."
-    },
-    {
-        "type": "Quote",
         "author": "Mark Twain",
         "text": "The secret of getting ahead is getting started."
+    },
+    {
+        "author": "Eleanor Roosevelt",
+        "text": "The future belongs to those who believe in the beauty of their dreams."
+    },
+    {
+        "author": "Confucius",
+        "text": "It does not matter how slowly you go as long as you do not stop."
+    },
+    {
+        "author": "Steve Jobs",
+        "text": "The only way to do great work is to love what you do."
+    },
+    {
+        "author": "Helen Keller",
+        "text": "Keep your face to the sunshine and you cannot see a shadow."
+    },
+    {
+        "author": "Mother Teresa",
+        "text": "Spread love everywhere you go. Let no one ever come to you without leaving happier."
+    },
+    {
+        "author": "Mahatma Gandhi",
+        "text": "Be the change that you wish to see in the world."
+    },
+    {
+        "author": "Henry Ford",
+        "text": "Whether you think you can or you think you can’t, you’re right."
+    },
+    {
+        "author": "Benjamin Franklin",
+        "text": "Well done is better than well said."
+    },
+    {
+        "author": "Oprah Winfrey",
+        "text": "The biggest adventure you can take is to live the life of your dreams."
+    },
+    {
+        "author": "Dr. Seuss",
+        "text": "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose."
+    },
+    {
+        "author": "Babe Ruth",
+        "text": "Never let the fear of striking out keep you from playing the game."
+    },
+    {
+        "author": "John Wooden",
+        "text": "Things turn out best for the people who make the best of the way things turn out."
+    },
+    {
+        "author": "Viktor E. Frankl",
+        "text": "When we are no longer able to change a situation, we are challenged to change ourselves."
+    },
+    {
+        "author": "Rumi",
+        "text": "What you seek is seeking you."
+    },
+    {
+        "author": "Dalai Lama",
+        "text": "Happiness is not something ready made. It comes from your own actions."
+    },
+    {
+        "author": "Tony Robbins",
+        "text": "The only limit to your impact is your imagination and commitment."
+    },
+    {
+        "author": "Aristotle",
+        "text": "We are what we repeatedly do. Excellence, then, is not an act, but a habit."
+    },
+    {
+        "author": "Jim Rohn",
+        "text": "Discipline is the bridge between goals and accomplishment."
+    },
+    {
+        "author": "C.S. Lewis",
+        "text": "You are never too old to set another goal or to dream a new dream."
+    },
+    {
+        "author": "Henry David Thoreau",
+        "text": "Go confidently in the direction of your dreams. Live the life you have imagined."
     }
 ]
