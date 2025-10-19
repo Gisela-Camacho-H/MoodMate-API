@@ -1,0 +1,64 @@
+{
+    "description_content": {
+        "Calm": {
+            "description": "This is a state of inner peace and stillness. You feel relaxed, unhurried, and mentally quiet, like the surface of a clear lake. There are no pressing worries, and you feel comfortable simply being in the moment."
+        },
+        "Hopeful": {
+            "scriptures": "You feel a sense of optimistic expectation toward the future. Even if things are tough right now, you believe that positive change is possible, and you can see a light at the end of the tunnel. It's a gentle but determined feeling."
+        },
+        "Content": {
+            "scriptures": "You are satisfied with things as they are. Contentment isn't extreme joy, but a quiet, deep feeling of comfort and acceptance. You don't need anything more right now; you feel full, warm, and at ease in your present circumstances."
+        },
+        "Joyful": {
+            "scriptures": "This is a feeling of intense, lighthearted happiness. Your spirit feels lifted, perhaps due to a good experience or simply a wonderful day. This emotion is often expansive, involving laughter, energy, and a feeling of genuine delight."
+        },
+        "Inspired": {
+            "scriptures": "You feel mentally stimulated and motivated to create, act, or learn something new. Ideas are flowing, and you feel excited by a new concept or direction, urging you to bring that vision into reality."
+        },
+        "Grateful": {
+            "scriptures": "You are appreciative and thankful for the good things—both big and small—in your life. This feeling often centers on recognizing the kindness of others or the beauty of a moment, fostering a warm, generous heart."
+        },
+        "Empowered": {
+            "scriptures": "You feel confident, capable, and in control of your decisions and actions. This is a feeling of inner strength and self-reliance, knowing that you have the resources and authority to manage your life and overcome challenges."
+        },
+        "Curious": {
+            "scriptures": "You feel a strong desire to know or learn something. Your mind is engaged, questioning, and actively seeking new information or understanding. It's an open, engaged state that encourages exploration."
+        },
+        "Anxious": {
+            "scriptures": "You feel a generalized sense of dread, unease, or excessive worry about future events. This emotion often manifests physically as a racing heart, shallow breath, or feeling keyed up and unable to relax."
+        },
+        "Sad": {
+            "scriptures": "You feel unhappy, discouraged, or downhearted, often in response to loss, disappointment, or a recognized hardship. It's a heavy emotion that can slow you down and prompt a need for comfort."
+        },
+        "Overwhelmed": {
+            "scriptures": "You feel swamped by too many responsibilities, thoughts, or demands. The pressure feels too intense, and you have difficulty focusing or prioritizing, leaving you feeling emotionally flooded and possibly stressed."
+        },
+        "Frustrated": {
+            "scriptures": "You are feeling annoyed or irritated because you are unable to change or achieve something. There's a barrier preventing your progress, leading to a feeling of tension and impatience."
+        },
+        "Stressed": {
+            "scriptures": "This is a feeling of physical or emotional tension that comes from difficult or demanding circumstances. Your body and mind are tense, reacting to pressure that feels greater than your ability to cope."
+        },
+        "Lonely": {
+            "scriptures": "You feel a deep sense of disconnection or separation from others. This is the pain of feeling unwanted or ununderstood, even if people are physically nearby. It is a yearning for meaningful connection."
+        },
+        "Confused": {
+            "scriptures": "Your thoughts feel muddled, disorganized, or unclear. You have difficulty making sense of a situation, understanding information, or making a decision, leading to a muddled mental state."
+        },
+        "Grief": {
+            "scriptures": "This is the intense sorrow experienced after losing something or someone important to you. It's a profound, complex emotion involving heartache, emptiness, and deep sadness."
+        },
+        "Apathy": {
+            "scriptures": "You feel a lack of emotion, care, or interest. You feel disconnected from your usual feelings and motivations, viewing life with indifference, like feeling blank or empty inside."
+        },
+        "Irritated": {
+            "scriptures": "This is a feeling of mild annoyance or agitation. You are bothered or slightly impatient, often by a recurring small issue or behavior, but it hasn't escalated into full frustration or anger."
+        },
+        "Vulnerable": {
+            "scriptures": "You feel emotionally exposed, sensitive, or defenseless. This often comes with the risk of being hurt or judged, but also represents a deep form of courage and openness."
+        },
+        "Resilient": {
+            "scriptures": "You recognize your ability to recover quickly from difficulties. This isn't about ignoring the struggle, but affirming your quiet strength to persist, adapt, and move forward despite setbacks or hardship."
+        }
+    }
+}

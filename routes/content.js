@@ -3,17 +3,18 @@ const router = express.Router();
 
 const moodmateContent = require('../data/moodmate_content.json');
 const inspirationalQuotes = require('../data/inspirational_quotes.json');
+const moodmate_description = require('../data/moodmate_description.json');
 
 /**
  * @swagger
  * /content/all:
  *   get:
- *     summary: Obtiene todo el contenido estático de la aplicación (emociones, frases inspiradoras)
+ *     summary: Get all the static content (Emotions)
  *     tags: [Content (Public)]
  *     security: []
  *     responses:
  *       200:
- *         description: Contenido estático devuelto exitosamente.
+ *         description: Static content get successfully 
  *         content:
  *           application/json:
  *             schema:
@@ -21,18 +22,14 @@ const inspirationalQuotes = require('../data/inspirational_quotes.json');
  *               properties:
  *                 support_content:
  *                   type: object
- *                   description: Contenido de apoyo mapeado por emoción (frases y escrituras).
- *                 inspirational_quotes:
- *                   type: array
- *                   description: Lista de frases inspiradoras para la pantalla de inicio.
+ *                   description: Content mapped by emotion (phrases and scriptures).
  *       500:
  *         description: Server Error.
  */
 router.get('/all', async (req, res) => {
     try {
         const allContent = {
-            support_content: moodmateContent.support_content, 
-            inspirational_quotes: inspirationalQuotes 
+            support_content: moodmateContent.support_content
         };
         res.json(allContent);
   } catch (error) {
@@ -40,6 +37,73 @@ router.get('/all', async (req, res) => {
     res.status(500).send('Server Error retrieving static content.');
   }
 });
+
+/**
+ * @swagger
+ * /content/quotes:
+ *   get:
+ *     summary: Get all inspirational_quotes
+ *     tags: [Content (Public)]
+ *     security: []
+ *     responses:
+ *       200:
+ *         description: inspirational_quotes get successfully 
+ *         content:
+ *           application/json:
+ *             schema:
+ *               type: object
+ *               properties:
+ *                 inspirational_quotes:
+ *                   type: array
+ *                   description: list of inspirational quotes for the home page.
+ *       500:
+ *         description: Server Error.
+ */
+router.get('/quotes', async (req, res) => {
+    try {
+        const quotes = {
+            inspirational_quotes: inspirationalQuotes 
+        };
+        res.json(quotes);
+  } catch (error) {
+    console.error(error.message);
+    res.status(500).send('Server Error retrieving static content.');
+  }
+});
+
+/**
+ * @swagger
+ * /content/description:
+ *   get:
+ *     summary: Get all the static description (Emotions)
+ *     tags: [Content (Public)]
+ *     security: []
+ *     responses:
+ *       200:
+ *         description: Static content description get successfully 
+ *         content:
+ *           application/json:
+ *             schema:
+ *               type: object
+ *               properties:
+ *                 description_content:
+ *                   type: object
+ *                   description: Content mapped by emotion description
+ *       500:
+ *         description: Server Error.
+ */
+router.get('/description', async (req, res) => {
+    try {
+        const description = {
+            description_content: moodmate_description.description_content
+        };
+        res.json(description);
+  } catch (error) {
+    console.error(error.message);
+    res.status(500).send('Server Error retrieving static content.');
+  }
+});
+
 
 /**
  * @swagger
