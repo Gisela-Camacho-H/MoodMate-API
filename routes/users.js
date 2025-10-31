@@ -44,7 +44,7 @@ const protect = require('../middleware/auth');
  *       500:
  *         description: Server Error.
  */
-router.post('/profile', protect, async (req, res) => {
+router.post('/profile', async (req, res) => {
   const { userId } = req.user; 
   const { name, email, profileImageUrl, birthday } = req.body;
 
