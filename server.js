@@ -15,10 +15,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 const MONGO_URI = process.env.MONGO_URI;
 
-
-const usersRoutes = require('./routes/users');
 const contentRoutes = require('./routes/content');
-const moodsRoutes = require('./routes/moods');
 
 
 mongoose.connect(MONGO_URI)
@@ -54,9 +51,7 @@ app.get('/api', (req, res) => {
     });
 });
 
-app.use('/api/users', usersRoutes);
 app.use('/api/content', contentRoutes);
-app.use('/api/moods', moodsRoutes);
 
 
 app.listen(PORT, () => {
