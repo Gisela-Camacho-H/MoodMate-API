@@ -3,47 +3,6 @@ const router = express.Router();
 const User = require('../models/User');
 const protect = require('../middleware/auth'); 
 
-/**
- * @swagger
- * /users/profile:
- *   post:
- *     summary: Crea o actualiza el perfil del usuario (CREATE/UPDATE)
- *     tags: [Users]
- *     security:
- *       - FirebaseIdToken: []
- *     requestBody:
- *       required: true
- *       content:
- *         application/json:
- *           schema:
- *             type: object
- *             required:
- *               - name
- *               - email
- *             properties:
- *               name:
- *                 type: string
- *                 example: "Gisela Camacho"
- *               email:
- *                 type: string
- *                 example: "test@moodmate.com"
- *               profileImageUrl:
- *                 type: string
- *                 example: "https://firebase.storage.url/photo.jpg"
- *               birthday:
- *                 type: string
- *                 format: date
- *                 example: "1990-01-01"
- *     responses:
- *       201:
- *         description: Perfil creado exitosamente.
- *       200:
- *         description: Perfil actualizado exitosamente.
- *       401:
- *         description: Error de autenticación (Token inválido o faltante).
- *       500:
- *         description: Server Error.
- */
 router.post('/profile', async (req, res) => {
   const { userId } = req.user; 
   const { name, email, profileImageUrl, birthday } = req.body;
@@ -82,24 +41,7 @@ router.post('/profile', async (req, res) => {
   }
 });
 
-/**
- * @swagger
- * /users/profile:
- *   get:
- *     summary: Obtiene el perfil del usuario autenticado (READ)
- *     tags: [Users]
- *     security:
- *       - FirebaseIdToken: []
- *     responses:
- *       200:
- *         description: Perfil de usuario devuelto.
- *       401:
- *         description: Error de autenticación.
- *       404:
- *         description: Perfil no encontrado.
- *       500:
- *         description: Server Error.
- */
+
 router.get('/profile', protect, async (req, res) => {
   try {
     const user = await User.findOne({ userId: req.user.userId }).select('-__v');
