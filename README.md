@@ -18,5 +18,5 @@ This is the RESTful API for the MoodMate mobile application, designed to help us
 
 1.  **Clone the repository:** `git clone [YourRepoURL]`
 2.  **Install dependencies:** `npm install`
-3.  **Setup Environment:** Configure the `.env` file with `MONGO_URI` and `FIREBASE_ADMIN_CREDENTIAL`.
+3.  **Setup Environment:** Configure the `.env` file with `MONGO_URI`.
 4.  **Run:** `node server.js`
